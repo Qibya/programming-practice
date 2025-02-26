@@ -29,5 +29,5 @@ Here is a list of tools you can use.
   > The first two years (combined) of a dog count as 21 human years.   
   > All the following years count as 4 human years per year.
   * _Also calculate the age if the dog is younger than 2._
-    > So ask for months, and additionally days.  
+    > So ask for months.  
 * Write a script to calculate if a given year is a leapyear.
